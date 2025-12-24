@@ -57,5 +57,5 @@ Trabajo realizado por:
 * Adrián Prego
 * Laia Sjöberg
 
-Matemática Computacional y Ánalisis de Datos, UAB
+Matemática Computacional y Análisis de Datos, UAB
 
