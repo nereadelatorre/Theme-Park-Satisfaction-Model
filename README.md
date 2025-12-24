@@ -52,9 +52,10 @@ Según el análisis detallado en el informe:
 
 ## Autores
 Trabajo realizado por:
-Nerea de la Torre, Nora Alquézar, Adrián Prego y Laia Sjoberg
-
-Matemática Computacional y Ánalisis de Datos, UAB
+* Nerea de la Torre
 * Nora Alquézar
 * Adrián Prego
 * Laia Sjöberg
+
+Matemática Computacional y Ánalisis de Datos, UAB
+
